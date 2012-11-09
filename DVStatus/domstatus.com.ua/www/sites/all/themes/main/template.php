@@ -193,5 +193,3 @@ function main_menu_tree($variables) {
     return '<ul class="submenu">' . $variables['tree'] . '</ul>';
   }
 }*/
-/*ssh*/
-/*524*/
